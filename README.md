@@ -11,10 +11,10 @@
 ## 👋 About Me
 
 <p align="center">
-  Software Engineer Intern at Wisework, Bangalore<br>
+  Currently Working As Software Engineer Intern at Wisework, Bangalore<br>
   Final Year Student at Chalapathi Institute of Technology<br>
   Passionate about technology and always eager to learn<br><br>
-  <a href="https://drive.google.com/file/d/1RJYnhOZblod5vwRdvgXyk2JQetRSsKqJ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
+  <a href="https://drive.google.com/file/d/1xFJqYkmdjNAWxxPHyI_a9vYH1nlo8rmW/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
   <a href="mailto:venkatasambasivasampath@gmail.com?subject=Job%20Opportunity&body=Hi%20Sampath,%0D%0A%0D%0AI came across your profile and would like to discuss a potential job opportunity with you.%0D%0A%0D%0ABest regards," target="_blank"><img src="https://img.shields.io/badge/Wanna%20Hire%20Me%3F-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me"></a>
 </p>
 
