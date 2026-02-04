@@ -1,7 +1,7 @@
 # [Sampath Mandru](https://sampathmandru.github.io/My_Website/) <sub><sup>👉 [Click me →](https://sampathmandru.github.io/My_Website/)</sup></sub>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Software+Engineer+Intern;Final+Year+Student;Continuous+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Software+Engineer+Intern;Continuous+Learner" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
